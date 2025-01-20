@@ -1,0 +1,14 @@
+D:\game_65364541\Aekkachai\Cowboy\bin\Debug\net8.0\Cowboy.exe
+D:\game_65364541\Aekkachai\Cowboy\bin\Debug\net8.0\Cowboy.deps.json
+D:\game_65364541\Aekkachai\Cowboy\bin\Debug\net8.0\Cowboy.runtimeconfig.json
+D:\game_65364541\Aekkachai\Cowboy\bin\Debug\net8.0\Cowboy.dll
+D:\game_65364541\Aekkachai\Cowboy\bin\Debug\net8.0\Cowboy.pdb
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.GeneratedMSBuildEditorConfig.editorconfig
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.AssemblyInfoInputs.cache
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.AssemblyInfo.cs
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.csproj.CoreCompileInputs.cache
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.dll
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\refint\Cowboy.dll
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.pdb
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\Cowboy.genruntimeconfig.cache
+D:\game_65364541\Aekkachai\Cowboy\obj\Debug\net8.0\ref\Cowboy.dll
